@@ -15,7 +15,7 @@ https://pecl.php.net/package/imagick
 3. `php artisan key:generate` && `php artisan storage:link`
 4. В .env настроить подключение БД
 5. `php artisan migrate`
-6. `npm run build`
+6. `npm install` && `npm run build`
 7. `php artisan serve`
 
 ## Доступные страницы
