@@ -12,7 +12,7 @@ https://pecl.php.net/package/imagick
 
 1. Клонировать текущий репозиторий
 2. `cp .env.example .env`
-3. `php artisan key:generate`
+3. `php artisan key:generate` && `php artisan storage:link`
 4. В .env настроить подключение БД
 5. `php artisan migrate`
 6. `npm run build`
